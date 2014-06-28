@@ -1,1 +1,0 @@
-* [DigiTrust](http://www.digitru.st/) coverage in [AdAge](http://adage.com/article/digital/ad-tech-companies-form-group-standardize-user-id/293781/) and [MarketingMag.ca](http://www.marketingmag.ca/).

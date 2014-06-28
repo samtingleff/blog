@@ -1,0 +1,3 @@
+* [DigiTrust](http://www.digitru.st/) coverage in [AdAge](http://adage.com/article/digital/ad-tech-companies-form-group-standardize-user-id/293781/) and [MarketingMag.ca](http://www.marketingmag.ca/).
+* WSJ Q&amp;A [with Mark Karpeles](http://blogs.wsj.com/japanrealtime/2014/06/27/qa-with-mt-goxs-karpeles-what-went-wrong/) and the the ensuing [HN discussion](https://news.ycombinator.com/item?id=7954063).
+* MIT Sloan Review: [When is it Legal to Lie in Negotiations?](http://sloanreview.mit.edu/article/when-is-it-legal-to-lie-in-negotiations/)
