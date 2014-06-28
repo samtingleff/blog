@@ -49,7 +49,7 @@
       <div class="title">
        <h2><a href="/~stingleff/blog/output/$page.slug$" rel="bookmark" title="$page.title$">$page.title$</a></h2>
        <div class="postmeta">
-        Tags: $page.tags:{tag| $tag$ }$
+        <!--Tags: $page.tags:{tag| $tag$ }$-->
        </div><!-- /div postmeta -->
       </div><!-- /div title -->
 

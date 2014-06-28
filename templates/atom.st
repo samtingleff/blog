@@ -6,7 +6,7 @@
  <link rel="self" type="application/atom+xml" href="http://sam.tingleff.com/blog/feeds/atom.xml" />
  <id>http://sam.tingleff.com/blog/feeds/atom.xml</id>
  <updated>$buildDate$</updated>
- <rights>Copyright &copy; 2014, Sam Tingleff</rights>
+ <rights>Copyright &amp;copy; 2014, Sam Tingleff</rights>
  $items:{item|
   <entry>
    <title>$item.title$</title>
