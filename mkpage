@@ -27,14 +27,18 @@ content_dir = "%s/%s/%s" % (args.content, now.strftime("%Y/%m/%d"), args.slug)
 try: os.makedirs(content_dir)
 except OSError: pass
 
-path = "%s/index.properties" % content_dir
+properties_path = "%s/index.properties" % content_dir
 
-f = open(path, "w")
+f = open(properties_path, "w")
 f.write("author = %s\n" % args.author)
-f.write("title = \n")
-f.write("keywords = \n")
-f.write("description = \n")
-f.write("tags = \n")
+f.write("title = %s\n" % args.title)
+f.write("keywords = %s\n" % args.keywords)
+f.write("description = %s\n" % args.description)
+f.write("tags = %s\n" % args.tags)
 f.write("href = %s/%s/\n" % (now.strftime("%Y/%m/%d"), args.slug))
 f.write("pubDate = %s\n" % now.strftime("%Y-%m-%d %H:%M"))
 f.close()
+
+body_path = "%s/index.markdown" % content_dir
+if not os.path.exists(body_path):
+    open(body_path, "w").close()
