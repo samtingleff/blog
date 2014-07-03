@@ -6,8 +6,7 @@
   <meta http-equiv="content-language" content="en-US"/>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
   <meta name="author" content="sam"/>
-  <base href="file:///Users/stingleff/ct-workspace/blog/output/"/>
-  <link rel="stylesheet" href="static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
+  <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
   <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/blog/feed.rss"/>
   <title>sam.tingleff.com</title>
  </head>
@@ -75,16 +74,16 @@
        <h2>Stalking me</h2>
        <ul>
         <li>
-         <a href="http://twitter.com/samtingleff"><img src="static/icons/64x64/twitter-64x64.png" width="64" height="64"/></a>
+         <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/64x64/twitter-64x64.png" width="64" height="64"/></a>
         </li>
         <li>
-         <a href="https://github.com/samtingleff"><img src="static/icons/64x64/github-64x64.png" width="64" height="64"/></a>
+         <a href="https://github.com/samtingleff"><img src="/blog/static/icons/64x64/github-64x64.png" width="64" height="64"/></a>
         </li>
         <li>
-         <a href="http://www.linkedin.com/in/samtingleff"><img src="static/icons/64x64/linkedin-64x64.png" width="64" height="64"/></a>
+         <a href="http://www.linkedin.com/in/samtingleff"><img src="/blog/static/icons/64x64/linkedin-64x64.png" width="64" height="64"/></a>
         </li>
         <!--<li>
-         <a href="http://www.flickr.com/photos/samtingleff/"><img src="static/icons/64x64/flickr-64x64.png" width="64" height="64"/></a>
+         <a href="http://www.flickr.com/photos/samtingleff/"><img src="/blog/static/icons/64x64/flickr-64x64.png" width="64" height="64"/></a>
         </li>-->
        </ul>
       </li>
