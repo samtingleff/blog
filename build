@@ -1,2 +1,2 @@
 #!/bin/sh
-java -jar /Users/stingleff/workspace/yassg/target/yassg-1.0.0-jar-with-dependencies.jar -content content/ -templates templates/ -static static/ -output blog/
+java -jar /Users/stingleff/workspace/yassg/target/yassg-1.0.0-jar-with-dependencies.jar -content content/ -templates templates/ -static static/ -output output/
