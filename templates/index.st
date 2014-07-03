@@ -34,14 +34,14 @@
          <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/16x16/twitter-16x16.png" width="16" height="16"/></a>
      </li>
      <li>
-         <a href="http://www.linkedin.com/in/samtingleff"><img src="/blog/static/icons/16x16/linkedin-16x16.png" width="16" height="16"/></a>
-     </li>
-     <li>
          <a href="https://github.com/samtingleff"><img src="/blog/static/icons/16x16/github-16x16.png" width="16" height="16"/></a>
      </li>
      <li>
-         <a href="http://www.flickr.com/photos/samtingleff/"><img src="/blog/static/icons/16x16/flickr-16x16.png" width="16" height="16"/></a>
+         <a href="http://www.linkedin.com/in/samtingleff"><img src="/blog/static/icons/16x16/linkedin-16x16.png" width="16" height="16"/></a>
      </li>
+     <!--<li>
+         <a href="http://www.flickr.com/photos/samtingleff/"><img src="/blog/static/icons/16x16/flickr-16x16.png" width="16" height="16"/></a>
+     </li>-->
     </ul>
    </div><!-- /div main_navi -->
 
