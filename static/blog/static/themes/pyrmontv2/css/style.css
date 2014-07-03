@@ -163,7 +163,7 @@ div#main_navi{
 		float: left;
 		list-style-type: none;
 		padding: 9px 0 0 20px;
-		width: 750px;
+		width: 500px;
 		height: 20px;
 		overflow: hidden;
 		}
@@ -196,13 +196,6 @@ div#main_navi{
 				margin: 0 0 0 10px;
 				text-transform: uppercase;
 				}
-			div#main_navi ul.right li.twitter a{
-				background: url(../img/twitter.gif) no-repeat 0 3px;
-				padding-left: 21px;
-				}
-			div#main_navi ul.right li.twitter a:hover{
-				color: #0af;
-				}
 			div#main_navi ul.right li.feed a{
 				background: url(../img/feed.gif) no-repeat 0 5px;
 				padding-left: 15px;
@@ -210,10 +203,17 @@ div#main_navi{
 			div#main_navi ul.right li.feed a:hover{
 				color: #ff5a00;
 				}
+			div#main_navi ul.right li.twitter a{
+				background: url(../img/twitter.gif) no-repeat 0 3px;
+				padding-left: 21px;
+				}
+			div#main_navi ul.right li.twitter a:hover{
+				color: #0af;
+				}
 /* END div#header */
 
 div#main{
-	width: 660px;
+	width: 950px;
 	float: left;
 	display: inline;/* fix double margin */
 	margin: 30px 25px 30px 10px;
