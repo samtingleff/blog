@@ -29,8 +29,21 @@
      <li class="current_page_item"><a href="/blog/">Home</a></li>
     </ul>
     <ul class="right">
-     <li class="twitter"><a href="http://twitter.com/samtingleff" title="Follow me on twitter">twitter</a></li>
-     <li class="feed"><a href="/blog/feed.rss" title="Subscribe to my feed">rss feed</a></li>
+     <li>
+         <a href="/blog/feed.rss"><img src="/blog/static/icons/16x16/feed-14x14.png" width="14" height="14"/></a>
+     </li>
+     <li>
+         <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/16x16/twitter-16x16.png" width="16" height="16"/></a>
+     </li>
+     <li>
+         <a href="http://www.linkedin.com/in/samtingleff"><img src="/blog/static/icons/16x16/linkedin-16x16.png" width="16" height="16"/></a>
+     </li>
+     <li>
+         <a href="https://github.com/samtingleff"><img src="/blog/static/icons/16x16/github-16x16.png" width="16" height="16"/></a>
+     </li>
+     <li>
+         <a href="http://www.flickr.com/photos/samtingleff/"><img src="/blog/static/icons/16x16/flickr-16x16.png" width="16" height="16"/></a>
+     </li>
     </ul>
    </div><!-- /div main_navi -->
 
@@ -67,34 +80,6 @@
      </div><!-- /div navigation -->
 
     </div><!-- /div main -->
-
-    <div id="sidebar">
-     <ul>
-      <li>
-       <h2>About this entry</h2>
-       <ul>
-        <li>Published: $page.pubDateHtml$</li>
-       </ul>
-      </li>
-      <li>
-       <h2>Stalking me</h2>
-       <ul>
-        <li>
-         <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/64x64/twitter-64x64.png" width="64" height="64"/></a>
-        </li>
-        <li>
-         <a href="https://github.com/samtingleff"><img src="/blog/static/icons/64x64/github-64x64.png" width="64" height="64"/></a>
-        </li>
-        <li>
-         <a href="http://www.linkedin.com/in/samtingleff"><img src="/blog/static/icons/64x64/linkedin-64x64.png" width="64" height="64"/></a>
-        </li>
-        <!--<li>
-         <a href="http://www.flickr.com/photos/samtingleff/"><img src="/blog/static/icons/64x64/flickr-64x64.png" width="64" height="64"/></a>
-        </li>-->
-       </ul>
-      </li>
-     </ul>
-    </div><!-- /div sidebar -->
 
    <div class="clear"></div>
 
