@@ -1,0 +1,1 @@
+I, for one, prefer iTunes over iCloud. It's simple. It works. It does not depend on Comcast or AT&amp;T in any way. Need I say more.
