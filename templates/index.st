@@ -7,7 +7,7 @@
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
   <meta name="author" content="sam"/>
   <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
-  <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/blog/feed.rss"/>
+  <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/feed.rss"/>
   <title>sam.tingleff.com</title>
  </head>
  <body>
@@ -28,7 +28,7 @@
     </ul>
     <ul class="right">
      <li>
-         <a href="/blog/feed.rss"><img src="/blog/static/icons/16x16/feed-14x14.png" width="14" height="14"/></a>
+         <a href="/feed.rss"><img src="/blog/static/icons/16x16/feed-14x14.png" width="14" height="14"/></a>
      </li>
      <li>
          <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/16x16/twitter-16x16.png" width="16" height="16"/></a>
@@ -58,7 +58,7 @@
        </div><!-- /div date -->
 
        <div class="title">
-        <h2><a href="/blog/$page.slug$" rel="bookmark" title="$page.title$">$page.title$</a></h2>
+        <h2><a href="/$page.slug$" rel="bookmark" title="$page.title$">$page.title$</a></h2>
         <div class="postmeta">
          <!-- Tags: $page.tags:{tag| $tag$ }$ -->
         </div><!-- /div postmeta -->

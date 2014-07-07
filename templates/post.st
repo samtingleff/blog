@@ -9,7 +9,7 @@
   $page.keywords:{keywords|<meta name="keywords" content="$keywords$"/>}$
   <link rel="canonical" href="http://sam.tingleff.com/blog/$page.slug$"/>
   <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
-  <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/blog/feed.rss"/>
+  <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/feed.rss"/>
   <title>$page.title$</title>
  </head>
  <body>
@@ -30,7 +30,7 @@
     </ul>
     <ul class="right">
      <li>
-         <a href="/blog/feed.rss"><img src="/blog/static/icons/16x16/feed-14x14.png" width="14" height="14"/></a>
+         <a href="/feed.rss"><img src="/blog/static/icons/16x16/feed-14x14.png" width="14" height="14"/></a>
      </li>
      <li>
          <a href="http://twitter.com/samtingleff"><img src="/blog/static/icons/16x16/twitter-16x16.png" width="16" height="16"/></a>
