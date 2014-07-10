@@ -11,7 +11,7 @@
   <entry>
    <title>$item.title$</title>
    <link rel="alternate" type="text/html" href="http://sam.tingleff.com/blog/$item.href$"/>
-   <id>tag:sam.tingleff.com,$item.pubDateHtml$:/$item.slug$</id>
+   <id>tag:sam.tingleff.com:/$item.slug$</id>
    <published>$item.pubDateRSS$</published>
    <updated>$item.pubDateRSS$</updated>
    <author>
