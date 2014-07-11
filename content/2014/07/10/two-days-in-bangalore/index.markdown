@@ -20,8 +20,8 @@ Which reminds me of a passage in Antifragile that I happened to read on the way 
 * Girls season 3, episodes 1 and 2
 * Some British miniseries about INXS
 * Three issues of Business Week
-* Alien Collective by Gini Koch
-* Antifragile by Nassim Taleb
+* [Alien Collective](https://www.goodreads.com/book/show/17148630-alien-collective) by Gini Koch
+* [Antifragile](https://www.goodreads.com/book/show/13530973-antifragile) by Nassim Taleb
 
 ### In Summary
 * Miles flown: 19,580
