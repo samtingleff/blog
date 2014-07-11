@@ -2,7 +2,9 @@ I had the privilege of traveling to Bangalore this week to work with a Rubicon P
 
 The defining feature of the city is the traffic, which appears to be controlled by an AI communicating between vehicles via horn. Here's a sample recorded for your pleasure.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158208762&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+%%% soundcloud
+158208762
+%%%
 
 And while driving appears totally out of control and chaotic, they tell me that there are not an extraordinary number of accidents, and those that do happen are rather minor in nature.
 
