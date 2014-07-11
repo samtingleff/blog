@@ -4,16 +4,22 @@ The defining feature of the city is the traffic, which appears to be controlled 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/158208762&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+And while driving appears totally out of control and chaotic, they tell me that there are not an extraordinary number of accidents, and those that do happen are rather minor in nature.
+
+Which reminds me of a passage in Antifragile that I happened to read on the way home.
+
+> Some libertarians use the example of Drachten, a town in the Netherlands, in which a dream experiment was conducted. All street signs were removed. The deregulation led to an increase in safety, confirming the antifragility of attention at work, how it is whetted by a sense of danger and responsibility.
+
 ### Media Consumed
 * [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)
 * [Captain America: The Winter Soldier](http://www.imdb.com/title/tt1843866/)
 * [Divergent](http://www.imdb.com/title/tt1840309/)
 * Curb Your Enthusiasm season 3, episodes 1-9
 * Girls season 3, episodes 1 and 2
-* some British miniseries about INXS
+* Some British miniseries about INXS
 * Three issues of Business Week
 * Alien Collective by Gini Koch
-* Antifragile
+* Antifragile by Nassim Taleb
 
 ### In Summary
 * Miles flown: 19,580
