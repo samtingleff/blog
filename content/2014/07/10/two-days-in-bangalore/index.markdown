@@ -2,13 +2,13 @@ I had the privilege of traveling to Bangalore this week to work with a Rubicon P
 
 The defining feature of the city is the traffic, which appears to be controlled by an AI communicating between vehicles via horn. Here's a sample recorded for your pleasure.
 
-%%% soundcloud
+%%% soundcloud height=166
 158208762
 %%%
 
-And while driving appears totally out of control and chaotic, they tell me that there are not an extraordinary number of accidents, and those that do happen are rather minor in nature.
+And while driving appears totally chaotic and out of control, they tell me that there are not a huge number of accidents, and those that do happen are rather minor in nature.
 
-Which reminds me of a passage in Antifragile that I happened to read on the way home.
+Perhaps the libertarians are right, and street signs really are bad for your health. Nassim Taleb would agree:
 
 > Some libertarians use the example of Drachten, a town in the Netherlands, in which a dream experiment was conducted. All street signs were removed. The deregulation led to an increase in safety, confirming the antifragility of attention at work, how it is whetted by a sense of danger and responsibility.
 
