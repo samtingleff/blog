@@ -1,0 +1,5 @@
+* [A mostly complete 2014 "Tools of the Trade"](https://github.com/cjbarber/ToolsOfTheTrade) and the [HN discussion](https://news.ycombinator.com/item?id=8028704)
+* [LPD: Libertarian Police Department](http://www.newyorker.com/online/blogs/shouts/2014/03/libertarian-police-department.html) and [NLPD: Non-Libertarian Police Department](http://www.theatlantic.com/politics/archive/2014/04/nlpd-non-libertarian-police-department/360224/)
+* Snowden documents reveal GCHQ programs to [track targets, spread (mis)information and manipulate online debates](http://www.theguardian.com/uk-news/2014/jul/14/gchq-tools-manipulate-online-information-leak)
+* I love quantified self site [AprilZero](http://aprilzero.com/)
+* I totally want [RocketSkates](http://www.slashgear.com/these-are-actons-rocketskates-and-theyre-insane-fun-17337656/) and a [goTenna](http://www.slashgear.com/gotenna-brings-messaging-with-you-everywhere-you-go-17337692/), if not necessarily to go together

@@ -10,7 +10,7 @@
   <link rel="canonical" href="http://sam.tingleff.com/blog/$page.slug$"/>
   <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
   <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/feed.rss"/>
-  <title>$page.title$</title>
+  <title>$page.title$ | sam tingleff</title>
  </head>
  <body>
 
@@ -59,7 +59,7 @@
       </div><!-- /div date -->
 
       <div class="title">
-       <h2><a href="/~stingleff/blog/output/$page.slug$" rel="bookmark" title="$page.title$">$page.title$</a></h2>
+       <h2><a href="/$page.slug$" rel="bookmark" title="$page.title$">$page.title$</a></h2>
        <div class="postmeta">
         <!--Tags: $page.tags:{tag| $tag$ }$-->
        </div><!-- /div postmeta -->
