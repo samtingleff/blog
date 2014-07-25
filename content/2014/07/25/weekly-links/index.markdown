@@ -1,0 +1,2 @@
+* I have been playing around with [Moves](https://moves-app.com/), which is great but a huge battery suck, even on an iPhone 5S with the Tracking Priority setting on "Battery Saving"
+* Interesting data on [persistent tracking mechanisms in the wild](https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html)
