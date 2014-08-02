@@ -1,0 +1,4 @@
+* "GoodGoogle", the serivce that [drains competitors' online ad budget](http://krebsonsecurity.com/2014/07/service-drains-competitors-online-ad-budget/)
+* Hague court orders Russia to [pay $50 billion in Yukos case](http://www.reuters.com/article/2014/07/28/us-russia-yukos-idUSKBN0FW0TP20140728)
+* [Seven habits of highly fraudulent users](http://blog.siftscience.com/seven-habits-of-highly-fraudulent-users/)
+* Headlines from a dystopian future: [Selfie-addicted Russian soldier caught in Ukrainian territory by Instagram geo-tagging](http://www.thedrum.com/news/2014/07/31/selfie-addicted-russian-soldier-caught-ukrainian-territory-instagram-geo-tagging-0)
