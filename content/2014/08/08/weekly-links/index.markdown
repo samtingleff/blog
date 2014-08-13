@@ -1,0 +1,5 @@
+* Kaggle: [learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)
+* [The hidden perils of cookie syncing](https://freedom-to-tinker.com/blog/englehardt/the-hidden-perils-of-cookie-syncing/)
+* NPR: [Rich Kid, Poor Kid: For 30 Years, Baltimore Study Tracked Who Gets Ahead](http://www.npr.org/blogs/ed/2014/08/07/335285098/rich-kid-poor-kid-for-30-years-baltimore-study-tracked-who-gets-ahead)
+* [Create your own machine learning powered RSS reader](http://blog.algorithmia.com/post/93293999119/create-your-own-machine-learning-powered-rss-reader-in)
+* [Dispute Between Amazon and Hachette Takes an Orwellian Turn](http://mobile.nytimes.com/blogs/bits/2014/08/09/orwell-is-amazons-latest-target-in-battle-against-hachette/?_php=true&_type=blogs&_r=0)
