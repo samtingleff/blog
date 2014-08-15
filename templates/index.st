@@ -23,7 +23,7 @@
 
    <div id="main_navi">
     <ul class="left">
-     <li class="current_page_item"><a href="/blog/">Home</a></li>
+     <li class="current_page_item"><a href="/">blog</a></li>
     </ul>
     <ul class="right">
      <li>
