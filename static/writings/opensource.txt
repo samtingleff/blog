@@ -1,0 +1,77 @@
+
+Open Source Software in an age of The Free Market
+
+	The term "open source software" is used by a growing community of software developers to refer to computer applications that the user is free to modify and distribute as much as s/he would like.  Computer software typically comes in 'binary' form.  This binary data is created by 'compiling' a text file written in some programming language.  The resulting data is in a form understandable by the computer but not readable by the user.  Users may not modify an application like Microsoft Word because they do not receive the 'source code,' or the readable precursor to the compiled application.  Knowledgeable users of open source or free software can modify an application by changing and recompiling the source code.  The resulting program can be distributed again without obtaining permission from the original author.  This model of development has produced some of the Internet's most important software and protocols.  Recently, however, 'open source software' has grown in popularity for a variety of commercial and non-profit uses.
+
+	Open source software poses a unique challenge to the ideology of the free market.  It is an acknowledgement that a free market does not necessarily lead to the best product - in this case software.  Open source software is produced by a diverse, geographically separated community of individual programmers.  Most of them will never see a profit from their work.  They act for the greater good of the community, even if the motivation is pure ego satisfaction.[1]  Free software empowers the individual against the corporation.  At the same time, the open source movement has been embraced and appropriated by the corporate world.
+
+	Proponents of open source software draw distinctions between 'open source' or 'free software' and various other types of non-commercial software.  The GNU Project (www.gnu.org), run by the Free Software Foundation, defines several categories of free and non-free software.  'Public domain software' is software that is not copyrighted.  Some copies or modified versions may not be free.  'Copylefted software' is free software that may not be redistributed with any additional restrictions.  Every copy of the software must be free and it must include the source code.  Commercial firms may not modify the software and convert it to a proprietary application.  'Non-copylefted free software' comes from the author with permission to redistribute and modify.  Redistributions may add restrictions and charge for the software.  'Semi-free software' is not free, but comes with permission for individuals to use, copy, distribute, and modify the software for non-commercial purposes.  Commercial firms must pay to use the software.  'Freeware' is commonly used for software that is free and may be redistributed but does not include the source code (and thus cannot be modified).  'Shareware' permits redistribution, but says that users are required to pay a license fee.  People often disregard the license terms and do not pay the fee.  Shareware does not come with the source.  'Commercial software' is developed or supported by a business which aims to make money from the use of the software.  Most commercial software is 'proprietary,' but it does not have to be.  Vendors of the open source operating system GNU/Linux, for example, distribute the operating system and its source for free but sell support.  'Proprietary software' is not free or semi-free.  Its use, redistribution, or modification is prohibited or requires permission.  Most commercial applications and operating systems fall under this category.  Microsoft is the most commonly sited example.  The distinction made by the 'hacker' community between 'open source' and 'free software' reveals some of the diverging trends in the community.  There can thus be seen a continuity of openness, with commercial proprietary software (such as Microsoft Windows) the most restrictive and open source or free software the most free.
+
+	The Open Source Initiative defines open source software by ten core tenets.  The most revealing of these are the following:  1.  Free redistribution.  The license may not restrict any party from selling or giving away the software.  The license also may not require a royalty or other fee for any sale.  2.  Source code.  The program must include source code and must allow distribution in source code.  3.  Derived works.  The license must allow modifications and derived works.  5.  No discrimination against persons or groups.  "The license may not discriminate against any person or group of persons."  6.  No discrimination against fields of endeavor.  "The license must not restrict anyone from making use of the program in a specific field of endeavor."[1]  These key concepts draw attention to some of the contradictions of the movement.
+
+	Open source software has a long history intertwined with the Internet and the Unix operating system.  Unix was first developed at AT&T Bell Laboratories in the early 1970's.  As a government-regulated monopoly, AT&T was rquired to make the Unix source code available for a nominal fee.  Students at the University of California at Berkeley created their own version of the operating system - the Berkeley Software Distribution, or BSD.[2]  Much of the system software and communication protocols of the Internet were developed at Berkeley under BSD.  These protocols and applications began as open source, years before the Free Software Foundation or the Open Source Initiative.[3]  This development followed an open source model not for theoretical or commercial reasons, but for practical reasons of compatibility.  The first computers on the Internet (then called Arpanet) needed to follow the same communication protocols in order to communicate with each other.  Much of the system software of the Internet's TCP/IP standard was developed at UC Berkeley and introduced in BSD.  This tradition of open source applications and protocols lost favor in the 80's, but without it the Internet would not exist as we know it.
+
+	This tradition of open source communication software and standards enabled the growth of the Internet.  Tim O'Reilly, head of technical book publisher O'Reilly and Associates, describes the most "mission critical" Internet technologies, all of which are open source:
+		1. Bind - the Berkeley Internet Domain Name Daemon...  Without
+		it you'd be typing 207.25.97.99 instead of www.ibm.com...
+		2. Sendmail - An overwhelming majority of Internet email is routed
+		by this program, another Berkeley graduate...
+		3. Perl - The language of choice for most CGI programming, and an 
+		indispensable tool for virtually all Internet site administrators, 
+		Perl has been described as 'the duct tape of the Internet...'
+		4. Apache - Despite all the attention paid to Microsoft and Netscape, 
+		Apache holds dominant market share among web servers.  More than 50% 
+		of all web servers are powered by Apache.[4]
+These widely used technologies are available to anyone with the hardware and knowledge to use them (admittedly a relatively small group).  They have enabled the low barriers to entry[5] that make the Web such an open medium (as opposed to a medium like television with great economic and political barriers to entry).  It is exactly this quality of the Internet that leads Robert McChesney to label it a "wild card" in media globalization.[6]  McChesney says that the Internet has ended "traditional concentrated control over communication on technological grounds."[7]  The 'open' quality of open source software gives the Internet this power.
+
+	As the microcomputer market expanded rapidly in the late eighties and early nineties so too did the commercial software market.  Open source software fell out of favor as commercial vendors rose to prominence.  Microsoft's revenues in 1997 were $11.4 billion.  Open source software can be seen as a critique of the capitalist structure behind commercial software.  Eric Raymond's influential paper "The Cathedral and the Bazar" characterizes open source development as "a great babbling bazaar of differing agendas and approaches."[8]  This populist approach to software development flies in direct opposition to the 'cathedral' style common to commercial development.  Raymond describes the 'cathedral' model as a small group of developers who tightly guard their source code.  The cathedral model sees source code as intellectual property vital to economic profit.  Open source development, then, can be seen as a rejection of the profit motive.  This is certainly the spirit of the early Internet development.
+
+	Eric Raymond's sequel to "The Cathedral and the Bazaar," "Homesteading the Noosphere" describes hacker culture as a gift economy.[9]  In a culture with plentiful resources (hard disk space, computational power, network bandwidth, etc.), the only available measure of success is reputation.  Hackers compete for a part of the territory of pure ideas - programming projects.  They gain reputation by what they add to the community, what they give away.  Raymond points out that this economy of excess resembles Native American gift economies more than it does market liberalism.  In this aspect the open source community is a rejection of capitalism.  Hackers believe that the profit motive of the free market does not lead to the best software.  This recognition - that a free market does not necessarily lead to the best software - is a challenge to the free market ideology and one part of the open source contradiction.
+
+	Richard Stallman's Free Software Foundation (www.fsf.org) is even more explicit about the ideology behind open source software.  The Free Software Foundation was founded "on the appealingly utopian - and perhaps quixotic - notion that all information should be shared."[10]  Their emphasis is this:
+		Good, useful thoughts - with computer programs considered particularly 
+		functional concentrations of such - are imprisoned by copyright; the 
+		resulting unequal access, primarily by those with money over those without, 
+		is fundamentally unjust.[11]
+Stallman's group prefers the term "free software" to "open source software," because of perceived ambiguities in the meaning of the term.  The Open Source Initiative prefers the term 'open source' because they are "trying to pitch our concept to the corporate world now."[12]  They too, perceive ambiguities in the term 'free software.'  The Free Software Foundation prefers to focus on 'freedom,' and not on adapting to the corporate world.  Stallman likes to say that free software is "like free speech, not beer."  The Free Software Foundation emphasizes the freedom of open source, not the business benefits.  While the Open Source Initiative has a "Business Case for Open Source" (www.opensource.org/for-suits.html), the Free Software Foundation does not. In comparison to the Open Source Initiative, the Free Software Foundation professes a "radically socialist ideology."[13]  Stallman's philosophy, however, is only a matter of emphasis apart from the Open Source Initiative.  "Linux (a powerful open source operating system) is subversive,"[14] despite its possible corporate uses.
+
+	Open source may well be subversive, but it already has been appropriated and co-opted by the forces of capitalism.  Major hardware manufacturers like IBM, Intel, HP, Dell, and Compaq have endorsed Linux and offer it as an alternative operating system.  Linux resellers Rad Hat Software Inc. and Caldera Inc. offer commercial versions of the operating system.  Some members of the open source community interpret free software not as free speech, but as a free market.  Tim O'Reilly says that "free markets - whether in goods or in ideas - are simply more powerful than centralized ones."[15]  O'Reilly interprets this free flow of information and ideas, "free speech" to Stallman, as a natural extension of the free market.
+
+	Yet there is something different about the "free" in "free software" and the "free" in "free markets."  "Free software" is empowering to the individual.  "Free markets" are empowering to capital.  Free software built the Internet.  Free markets built broadcast television.  The appropriation of open source software by the corporate world removes some of its inherent subversiveness.  Open source challenges capitalist ideology and intellectual property law.[16]  Open source removes (some) economic barriers to publishing and mass communication.  The challenge to the free market, however, is embraced by the market itself.
+
+
+Notes
+
+1.  Homesteading the Noosphere
+www.tuxedo.org/~esr/writings/homesteading
+Eric S. Raymond
+1.  The Open Source Definition.
+www.opensource.org/osd.html
+Bruce Perens
+2.  Whence the Source:  Untangling the Open Source/Free Software Debate
+opensource.oreilly.com/news/scoville_0399.html
+Thomas Scoville
+3.  Scoville.
+4.  Freeware:  The Heart & Soul of the Internet
+oreilly.com/news/freeware_0298.html
+Tim O'Reilly
+5.  O'Reilly
+6.  Robert W. McChesney, "Media convergence and globalisation," <u>Electronic Empires</u>, ed. Daya Kishan Thussu (New York:  Arnold, 1998) 39.
+7.  McChesney 39.
+8.  The Cathedral and the Bazaar
+www.tuxedo.org/~esr/writings/cathedral-bazaar
+Eric S. Raymond
+9.  Raymond, Homesteading the Noosphere
+10.  Scoville
+11.  Scoville
+12.  The Techie/Hacker's Case for Open Source
+www.opensource.org/for-hackers.html
+13.  Scoville
+14.  Raymond, The Cathedral and the Bazaar
+15.  O'Reilly
+16.  Linux May Alter IP Legal Landscape
+The Law News Network
+www.lawnewsnetwork.com/stories/mar/e030899q.html
+Victoria Slind-Flor
+17.  The Business Case for Open Source
+www.opensource.org/for-suits.html
