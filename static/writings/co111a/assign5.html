@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Sorry to dissapoint you, Josh</title>
+<script language=JavaScript>
+<!--
+function makeArray() {
+         this.length = makeArray.arguments.length;
+             for (var i = 0; i < this.length; i++)
+             this[i + 1] = makeArray.arguments[i];
+         }
+
+<!-- The text that appears on the screen is stored in an array*/
+
+         var words = new makeArray ('<font color="#00ffff">I was going to write assignment five. . .</font>','but I looked at my grades...',"<font color=" + '"orange">'+"and saw that I was doing just fine.</font>","<font color=" + '"purple">' + "So I said to myself:</font>",'<font color="green">Self, why bother?</font>','<font color="red">So I wrote (copied) this little script and went to the gym.</font>')
+
+
+
+
+  function makeSlideShow (obj, wait, pre, url) {
+         this.curText = ' ';
+         this.posit = 1;   
+         this.word = obj;  
+         this.length = obj.length;
+         this.pre = pre;
+         this.wait = wait;
+         this.url = url;
+         this.display = displaySlideShow;
+}
+
+var wordIntro = new makeSlideShow (words,
+                                             2000, 
+                                            '<CENTER><BR><BR><BR><BR><BR><BR><font size=7>',       
+//  loads the next page
+            'index.html');
+
+function displaySlideShow() {
+             if (this.posit <= this.length) {
+             this.curText = this.word[this.posit]
+             outStringWord = blankFrameTop + this.pre + this.curText + blankFrameBottom;
+             parent.draw.location = 'javascript:parent.outStringWord'; 
+             this.posit++;                                               
+             }                                                            
+             else top.location = this.url;
+         }
+
+    var blankFrameTop = '<HTML><BODY TEXT="#FFFFFF" BGCOLOR="black">';
+         var blankFrameBottom = '</BODY></HTML><font face="comic sans ms">';
+         var blankFrame = blankFrameTop + blankFrameBottom;
+         var doneLoop = false;
+         document.write ('<FRAMESET onLoad = "displayLoop()" ROWS = "100%, *"');
+         document.write ('FRAMEBORDER = NO BORDER = 0>');
+         document.write ('<FRAME SCROLLING = AUTO SRC = "javascript:parent.blankFrame"');
+         document.write ('NAME = "draw" MARGINWIDTH = 2 MARGINHEIGHT = 2>');
+         document.write ('</FRAMESET>');
+
+function displayLoop() { 
+             if (wordIntro.posit <= wordIntro.length)
+             reDraw = setTimeout('displayLoop()', wordIntro.wait);
+         wordIntro.display();
+         }
+
+//-->
+
+
+
+</SCRIPT>
+         </HEAD>
+<body bgcolor="#ffffff">
+<p align="center">
+this page is meant to be viewed in a JavaScript enabled browser.<br>
+<a href="http://home.netscape.com/">Get a new one!</a>  They're
+free!<br>
+<br><br>
+Return to my <a href="index.html">index</a>
+</p>
+
+</body>
+</html>
