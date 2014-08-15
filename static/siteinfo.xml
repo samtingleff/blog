@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<siteinfo xmlns="http://a9.com/-/spec/siteinfo/1.0/">
+  <webmenu>
+    <name>sam.tingleff.com</name>
+    <menu>
+      <item>
+        <text>Sam's Blog</text>
+        <url>http://sam.tingleff.com/</url>
+      </item>
+      <separator/>
+    </menu>
+  </webmenu>
+</siteinfo>
