@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -a output/ sam@blair:/var/www/sam.tingleff.com/
