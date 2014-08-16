@@ -88,6 +88,7 @@
   </div><!-- /div page_wrap -->
 
   $footer()$
+  $includes/ga()$
 
  </body>
 </html>
