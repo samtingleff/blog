@@ -1,0 +1,2 @@
+* Mildly humorous that The Atlantic's [The Internet's Original Sin](http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/) presented me with first a [roadblock](http://www.iab.net/wiki/index.php/Roadblock), then a [billboard](http://www.iab.net/risingstars)
+* [Just How "Legal" Are Seed Libraries?](http://www.postcarbon.org/article/2339769-just-how-legal-are-seed-libraries)
