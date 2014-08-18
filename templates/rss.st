@@ -4,7 +4,7 @@
   <title>sam.tingleff.com</title>
   <description>hot air, fresh</description>
   <link>http://sam.tingleff.com/</link>
-  <copyright>Copyright &amp;copy; 2014 Sam Tingleff</copyright>
+  <copyright>Copyright 2014 Sam Tingleff</copyright>
   <language>en-us</language>
   <lastBuildDate>$buildDate$</lastBuildDate>
   <pubDate>$buildDate$</pubDate>
