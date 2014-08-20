@@ -47,3 +47,6 @@ f.close()
 
 if not os.path.exists(body_path):
     open(body_path, "w").close()
+
+print "Created %s" % body_path
+print "Created %s" % properties_path
