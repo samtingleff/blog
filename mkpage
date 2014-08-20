@@ -28,6 +28,12 @@ try: os.makedirs(content_dir)
 except OSError: pass
 
 properties_path = "%s/index.properties" % content_dir
+body_path = "%s/index.markdown" % content_dir
+
+if os.path.exists(properties_path):
+    raise Exception("Properties path %s already exists" % properties_path)
+if os.path.exists(body_path):
+    raise Exception("Body path %s already exists" % body_path)
 
 f = open(properties_path, "w")
 f.write("author = %s\n" % args.author)
@@ -39,6 +45,5 @@ f.write("href = blog/%s/%s/\n" % (now.strftime("%Y/%m/%d"), args.slug))
 f.write("pubDate = %s\n" % now.strftime("%Y-%m-%d %H:%M"))
 f.close()
 
-body_path = "%s/index.markdown" % content_dir
 if not os.path.exists(body_path):
     open(body_path, "w").close()
