@@ -3,8 +3,8 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <atom:link href="http://sam.tingleff.com/feed.rss" rel="self" type="application/rss+xml" />
-  <title>sam.tingleff.com</title>
-  <description>hot air, fresh</description>
+  <title>marginal focus</title>
+  <description>marginal focus | Sam Tingleff</description>
   <link>http://sam.tingleff.com/</link>
   <copyright>Copyright 2014 Sam Tingleff</copyright>
   <language>en-us</language>
