@@ -10,7 +10,7 @@
   <link rel="canonical" href="http://sam.tingleff.com/blog/$page.slug$"/>
   <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
   <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/feed.rss"/>
-  <title>marginal focus | $page.title$</title>
+  <title>$page.title$ | marginal focus</title>
  </head>
  <body>
 
@@ -18,7 +18,7 @@
 
    <div id="header">
     <div class="blog_title">
-     <h1><a href="/blog/">sam tingleff</a></h1>
+     <h1><a href="/blog/">$page.title$ | marginal focus</a></h1>
      <p class="description"></p>
     </div>
     <div class="clear"></div>
