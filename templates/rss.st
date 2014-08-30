@@ -10,7 +10,7 @@
   <language>en-us</language>
   <lastBuildDate>$buildDate$</lastBuildDate>
   <pubDate>$buildDate$</pubDate>
-  <generator>yassg (v1.0.0)</generator>
+  <generator>https://github.com/samtingleff/yassg</generator>
   $items:{item|
    <item>
     <title>$item.title$</title>
