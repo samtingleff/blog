@@ -1,0 +1,3 @@
+* kcet.org: [Reason Behind Increasing Food Allergies Discovered](http://www.kcet.org/living/food/food-rant/reason-behind-increasing-food-allergies-discovered.html)
+* NYT: [General Mills to Buy Annie's](http://dealbook.nytimes.com/2014/09/08/general-mills-to-buy-annies-for-820-million-in-cash/) (think of the children!)
+* The [Apple Watch](http://www.apple.com/watch/) is cool and all and they will sell a shit ton. But I liked the Nike Fuelband-like [iWatch concept](http://toddham.com/blog/iwatch-concept/) way more.
