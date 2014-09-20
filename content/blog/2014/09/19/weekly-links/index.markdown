@@ -1,0 +1,3 @@
+* NYT: [Perceptions Haven’t Caught Up to Decline in Crime](http://www.nytimes.com/2014/09/17/upshot/perceptions-havent-caught-up-to-decline-in-crime.html?rref=upshot&abt=0002&abg=0&_r=0). I blame CSI, Law &amp; Order and most importantly Law &amp; Order SVU.
+* [Eleventh Grade Tech Trends](https://medium.com/musings-about-text-boxes/eleventh-grade-tech-trends-aca537e9ce62)
+* Between his visits to [North Korea](http://www.vice.com/read/north-korea-has-a-friend-in-dennis-rodman) and now [to visit ISIS](http://nationalreport.net/dennis-rodman-isis/), Dennis Rodman is a shoe-in for Rogue Security of State
