@@ -1,0 +1,2 @@
+* NYT: [Make Dinner: A Home Cooking Manifesto](http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html?_r=0) and their [new web site](http://cooking.nytimes.com/)
+* We watched [Fed Up](http://www.imdb.com/title/tt2381335/) and learned about [the Bush administration and big sugar blocking a WHO report](http://www.theguardian.com/world/2004/jan/18/health.usa). Absolute terrorism.
