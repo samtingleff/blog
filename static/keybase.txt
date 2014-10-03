@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/samtingleff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sam.tingleff.com
+  * I am samtingleff (https://keybase.io/samtingleff) on keybase.
+  * I have a public key with fingerprint 871C 4EDE F5C0 03E4 DBD2  49F6 9A9E 2392 37D4 BB70
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "871c4edef5c003e4dbd249f69a9e239237d4bb70",
+            "host": "keybase.io",
+            "key_id": "9a9e239237d4bb70",
+            "uid": "538eb14eb397a6fa78b55e90f1964500",
+            "username": "samtingleff"
+        },
+        "service": {
+            "hostname": "sam.tingleff.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412373106,
+    "expire_in": 157680000,
+    "prev": "9e8013442f58bdfe51a78c9edd783c48336ce99a0cb90fd29a2c6abc1cbdd52d",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.12 (Darwin)
+
+owFtkVtIFFEYx3e18hLZglkUUXSsrBSb+2UNTeylqF66P41z5pzZHXNn1tlRW0Qj
+otIuJkaaPWT5YGAklAhRDyqoodZDpYUFCWkopfigEbWRnZGkl87L4Xzf7/t//z+n
+blW8J857+056vTj8LOwd6v4BPUd3bzhbAaCFosBfAU7jxUs3zAC2w7ZhOsAPJJHW
+OIywzmsUxWIOQcRwsi7IqowZVmZYEXEQihTIAkEr4k4QGahGcLZhkRp5KAYi1f/w
+pYsNnpUwpDkMWVlUBV0VJcjzWKZ0WhY4nloEI9g21RAmdEQNOcRfMdZ1UJkFSKPM
+0LBr293+D8peorI1K0QkwrblWJpVTLpBxwn73WEnGnbpcgyVvzoKNExEBslAGbYj
+hmUCP01IzTFcYZqjiX+WpoQsgM+EDRsrhkvwoiBR5LhrcJkbFksUzXIco/MSRDrm
+aRJLkzFCosRqnMSygoZlWaU0SIIiRlYZTVChRmsQIZ5BwE1WYlrAzxCbasDNZARM
+1Sm1MahMrvFuXObxxnlWLI9zf9CTnORb+tddYsKCMtDdV8efj05RzLH4/JRNW8rn
+8j721NmDl4pwz8zh309bBp7k9PoufGltSUt80LH/ZnrXVPWbytRt29vzleqZRDg/
+R3GT5stMkBfdp1Q98hZuLV1vtzOdJyNjtSnbxq0Pk/PHD41VmCfw++lYQoYSnKv6
+GrJCq9WCQFrwHbVQH9zZOJvLxK6H1yUVNNTvbWyK3SsouwLQwa4ENVO42DBWHO9M
+975I1A/cMspXjgxtDnacu1ySsVaJ/vSM+tdkwLZYc//ojtpTrUV7fIWfJh5/Y8dr
+uu87bd99s83PU5v6hmMzr480/IKd10Y+vx3O90Vf3Z24kZN7tb9x8KH0Bw==
+=s4An
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samtingleff
+
+==================================================================
