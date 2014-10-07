@@ -1,0 +1,2 @@
+* Turns out the MAC address randomization in iOS 8 [doesn't actually generate random MAC addresses](http://blog.airtightnetworks.com/ios8-mac-randomgate/), if you actually use your phone.
+* Bloomberg/Michael Lewis: [The Secret Goldman Sachs Tapes](http://www.bloombergview.com/articles/2014-09-26/the-secret-goldman-sachs-tapes) and the companion [This American Life](http://www.thisamericanlife.org/radio-archives/episode/536/the-secret-recordings-of-carmen-segarra) episode.
