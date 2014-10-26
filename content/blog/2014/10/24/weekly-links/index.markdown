@@ -1,0 +1,3 @@
+* NYT: [some SVP at google jumps out of a balloon](http://www.nytimes.com/2014/10/25/science/alan-eustace-jumps-from-stratosphere-breaking-felix-baumgartners-world-record.html) from the stratosphere
+* Will.I.Am [launches an entirely new wearables category](http://www.wired.co.uk/news/archive/2014-10/17/william)
+* [Genetic Relations Among Procrastination, Impulsivity, and Goal-Management Ability](http://pss.sagepub.com/content/early/2014/04/04/0956797614526260): Implications for the Evolutionary Origin of Procrastination
