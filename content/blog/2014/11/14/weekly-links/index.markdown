@@ -1,0 +1,2 @@
+* WaPo: [The mathematician who proved why hipsters all look alike](http://www.washingtonpost.com/news/storyline/wp/2014/11/11/the-mathematician-who-proved-why-hipsters-all-look-alike/)
+* New Yorker: [Better All the Time](http://www.newyorker.com/magazine/2014/11/10/better-time): How the "performance revolution" came to athletics—and beyond.
