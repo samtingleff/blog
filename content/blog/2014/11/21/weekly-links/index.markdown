@@ -1,0 +1,2 @@
+* IEEE: [What It Would Really Take to Reverse Climate Change](http://spectrum.ieee.org/energy/renewables/what-it-would-really-take-to-reverse-climate-change)
+* EFF: [Launching in 2015: A Certificate Authority to Encrypt the Entire Web](https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web)
