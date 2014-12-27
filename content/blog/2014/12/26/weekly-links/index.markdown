@@ -1,0 +1,2 @@
+* QZ.com: [The Dude Map: How Americans refer to their bros](http://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)
+* The Telegraph: [The week the dam broke in Russia and ended Putin's dreams](http://www.telegraph.co.uk/finance/economics/11305146/The-week-the-dam-broke-in-Russia-and-ended-Putins-dreams.html)
