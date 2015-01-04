@@ -1,3 +1,4 @@
 #!/bin/sh
+rm -rf index/*
 java -jar /Users/stingleff/workspace/yassg/target/yassg-1.0.0-jar-with-dependencies.jar -index index/ -content content/ -templates templates/ -output output/
 rsync -av static/ output/
