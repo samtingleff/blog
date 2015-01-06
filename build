@@ -1,4 +1,4 @@
 #!/bin/sh
 rm -rf index/*
-java -jar /Users/stingleff/workspace/yassg/target/yassg-1.0.0-jar-with-dependencies.jar -index index/ -content content/ -templates templates/ -output output/
+java -jar /Users/stingleff/workspace/yassg/yassg-static/target/yassg-static-1.0.0-jar-with-dependencies.jar -index index/ -alchemyKey $ALCHEMY_API_KEY -alchemyCache alchemy-cache/ -content content/ -templates templates/ -output output/
 rsync -av static/ output/
