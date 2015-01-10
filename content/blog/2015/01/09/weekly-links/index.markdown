@@ -1,0 +1,2 @@
+* You have to feel a bit sorry for the [sad sack management at Wet Seal](http://www.reddit.com/r/pics/comments/2refm0/employees_leave_a_protest_sign_at_failing_wet/)
+* Fast Company: [What Happened with the Amazon Fire Phone](http://www.fastcompany.com/3039887/under-fire)
