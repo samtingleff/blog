@@ -1,2 +1,3 @@
 #!/bin/sh
 rsync -a output/ sam@blair:/var/www/sam.tingleff.com/
+rsync -a index/ sam@blair:/var/www/sam.tingleff.com-searchindex/
