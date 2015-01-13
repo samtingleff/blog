@@ -4,7 +4,7 @@ import json
 from yassg.search import SearchClient
         
 urls = (
-    '/search/', 'search'
+    '/cgi-bin/search', 'search'
 )
 app = web.application(urls, globals())
 search_client = SearchClient("localhost", 9999)
