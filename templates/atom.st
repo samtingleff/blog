@@ -6,6 +6,13 @@
  <link rel="self" type="application/atom+xml" href="http://sam.tingleff.com/atom.xml" />
  <id>http://sam.tingleff.com/atom.xml</id>
  <updated>$buildDate$</updated>
+ <author>
+  <name>sam</name>
+  <uri>http://sam.tingleff.com/</uri>
+ </author>
+ <generator uri="http://github.com/samtingleff/yassg" version="1.0">
+  YASSG
+ </generator>
  <rights>Copyright 2014, Sam Tingleff</rights>
  $items:{item|
   <entry>
