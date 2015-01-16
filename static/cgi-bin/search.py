@@ -21,7 +21,6 @@ class search:
             response["status"] = "ok"
             response["results"] = convert(results.hits)
         except AttributeError, e:
-            print e
             response["status"] = "error"
             response["error"] = "no query specified"
         web.header('Content-Type', 'application/json')
@@ -32,12 +31,11 @@ class similar:
         args = web.input()
         response = {}
         try:
-            docId = int(args.docid)
-            results = search_client.similar(docId)
+            search = args.search
+            results = search_client.similar(search)
             response["status"] = "ok"
             response["results"] = convert(results.hits)
         except AttributeError, e:
-            print e
             response["status"] = "error"
             response["error"] = "no query specified"
         web.header('Content-Type', 'application/json')

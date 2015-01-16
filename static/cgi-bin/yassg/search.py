@@ -12,8 +12,8 @@ class SearchClient(object):
     def query(self, q):
         return self.client.search(q, 10, None)
 
-    def similar(self, docId):
-        return self.client.similar(docId, 4, None)
+    def similar(self, search):
+        return self.client.similar(search, 4, None)
 
     def connect(self):
         self.transport = TSocket.TSocket(self.host, self.port)
