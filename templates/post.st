@@ -70,6 +70,14 @@
 
       <div class="entry">
        $page.body$
+
+       <div>
+        Possibly related:
+        <ul>$related:{post |
+         <li><a href="/$post.fields.href$">$post.fields.title$</a></li>
+         }$</ul>
+       </div>
+
       </div><!-- /div entry -->
 
      </div><!-- /div post -->
