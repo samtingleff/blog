@@ -25,6 +25,9 @@
     <name>$item.author$</name>
     <uri>http://sam.tingleff.com/</uri>
    </author>
+   $item.tags:{tag|
+   <category term="$tag$"/>
+   }$
    <content type="html" xml:lang="en"><![CDATA[
     $item.body$
    ]]></content>
