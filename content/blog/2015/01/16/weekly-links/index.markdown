@@ -1,0 +1,3 @@
+* WaPo: [How to Raise Successful Children](http://www.washingtonpost.com/lifestyle/magazine/how-to-raise-successful-children--advice-from-parents-lucky-enough-to-know/2014/12/30/54785c3c-7fe9-11e4-9f38-95a187e4c1f7_story.html)
+* Techcrunch: [Facebook Unvails Facebook At Work](http://techcrunch.com/2015/01/14/facebook-at-work-ios-android/)
+* Bloomberg: [Swiss National Bank Abandons Cap vs Euro](http://www.bloomberg.com/news/2015-01-15/snb-unexpectedly-gives-up-cap-on-franc-lowers-deposit-rate.html) also [WSJ](http://www.wsj.com/articles/switzerland-scraps-currency-cap-1421320531)
