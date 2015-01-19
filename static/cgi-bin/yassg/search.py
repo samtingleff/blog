@@ -15,6 +15,9 @@ class SearchClient(object):
     def similar(self, search):
         return self.client.similar(search, 4, None)
 
+    def reopen(self):
+        return self.client.reopen()
+
     def connect(self):
         self.transport = TSocket.TSocket(self.host, self.port)
         self.transport = TTransport.TBufferedTransport(self.transport)

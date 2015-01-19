@@ -6,6 +6,7 @@ from yassg.search import SearchClient
 urls = (
     '/cgi-bin/search', 'search',
     '/cgi-bin/similar', 'similar'
+    '/cgi-bin/reopen', 'reopen'
 )
 app = web.application(urls, globals())
 search_client = SearchClient("localhost", 9999)
@@ -38,6 +39,17 @@ class similar:
         except AttributeError, e:
             response["status"] = "error"
             response["error"] = "no query specified"
+        web.header('Content-Type', 'application/json')
+        return json.dumps(response)
+
+class reopen:
+    def GET(self):
+        response = {}
+        try:
+            results = search_client.reopen()
+            response["status"] = "ok"
+        except AttributeError, e:
+            response["status"] = "error"
         web.header('Content-Type', 'application/json')
         return json.dumps(response)
 
