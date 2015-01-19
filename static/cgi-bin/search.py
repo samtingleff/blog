@@ -5,7 +5,7 @@ from yassg.search import SearchClient
         
 urls = (
     '/cgi-bin/search', 'search',
-    '/cgi-bin/similar', 'similar'
+    '/cgi-bin/similar', 'similar',
     '/cgi-bin/reopen', 'reopen'
 )
 app = web.application(urls, globals())
