@@ -1,0 +1,3 @@
+* WSJ: [Andrew Luck: The NFL’s Most Perplexing Trash Talker](http://www.wsj.com/articles/andrew-luck-the-nfls-most-perplexing-trash-talker-1418663249)
+* Vox on Inequality: [Why have weddings and houses gotten so ridiculously expensive? ](http://www.vox.com/2015/1/16/7545509/inequality-waste) from [Robert H. Frank](http://www.robert-h-frank.com/)
+* [AdBlock for IRL](http://jonathandub.in/cognizance/)
