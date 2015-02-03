@@ -1,0 +1,2 @@
+* Buzzfeed (it won't happen again, really): [Original Star Wars Concept Art](http://www.buzzfeed.com/danieldalton/stunning-star-wars-concept-art-ralph-mcquarrie)
+* Economist: [An Hereditary Meritocracy](http://www.economist.com/news/briefing/21640316-children-rich-and-powerful-are-increasingly-well-suited-earning-wealth-and-power)
