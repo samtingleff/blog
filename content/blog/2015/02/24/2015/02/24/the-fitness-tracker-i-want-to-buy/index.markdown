@@ -43,15 +43,3 @@ Battery life
 Nobody wants to plug the damn thing in every day. It should go at least a couple of days without a charge.
 
 ![Apple iWatch](/blog/static/images/2015/02/24/apple-iwatch-300x165.png)
-
-**References**
-
-* https://www.fitbit.com/store
-* http://sites.garmin.com/en-US/vivo/
-* https://jawbone.com/
-* http://www.nike.com/us/en_us/c/nikeplus-fuelband
-* http://engineeredby.hp.com/michael-bastian/index.html
-* http://www.withings.com/us/withings-activite.html
-* http://www.withings.com/us/withings-activite-pop.html
-* https://www.kickstarter.com/projects/597507018/pebble-time-awesome-smartwatch-no-compromises
-* http://www.pcmag.com/article2/0,2817,2404445,00.asp
