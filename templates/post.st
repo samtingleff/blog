@@ -19,7 +19,7 @@
 
    <div id="header">
     <div class="blog_title">
-     <h1><a href="/blog/">$page.title$ | marginal focus</a></h1>
+     <h1><a href="/">$page.title$ | marginal focus</a></h1>
      <p class="description"></p>
     </div>
     <div class="clear"></div>
