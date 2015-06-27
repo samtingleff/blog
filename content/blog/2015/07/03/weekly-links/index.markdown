@@ -1,0 +1,1 @@
+* Supreme Court [legalizes gay marriage nationwide](http://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html?_r=0)

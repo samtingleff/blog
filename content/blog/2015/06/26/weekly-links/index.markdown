@@ -1,0 +1,3 @@
+* Wired: [Cheese produced by GMO Yeast](http://www.wired.com/2015/04/diy-biotech-vegan-cheese/)
+* They stole my idea! (spoken in [Kramer's voice](http://www.imdb.com/title/tt0697806/)) [Google wants to guess meal calories using food pics](http://www.slashgear.com/google-wants-to-guess-meal-calories-using-food-pics-02386352/)
+* Radiolab [podcast on CRISPR](http://www.radiolab.org/story/antibodies-part-1-crispr/)
