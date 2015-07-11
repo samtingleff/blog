@@ -1,0 +1,3 @@
+* Supreme Court [legalizes gay marriage nationwide](http://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html?_r=0)
+* Interfluidity: [Greece](http://www.interfluidity.com/v2/5965.html). Also see [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2015/07/might-greece-see-some-version-of-hyperinflation.html).
+* Confederate flag [taken down from South Carolina state capital](http://abcnews.go.com/US/confederate-flag-state-capitol-south-carolina/story?id=32354059)
