@@ -1,0 +1,4 @@
+* NYer: [The Really Big One](http://www.newyorker.com/magazine/2015/07/20/the-really-big-one) (also covered [in reddit](https://www.reddit.com/r/IAmA/comments/3da1mh/we_are_earthquake_experts_ask_us_anything_about))
+* fivethirtyeight.com: [The Best Jobs Now Require You To Be A People Person](https://fivethirtyeight.com/features/the-best-jobs-now-require-you-to-be-a-people-person/). Oh no!
+* csmonitor.com: [The battle between Washington and Silicon Valley over encryption](http://passcode.csmonitor.com/cryptowars)
+* WSJ: [Nassim Taleb's Black Swan fund made $1b](http://www.wsj.com/articles/nassim-talebs-black-swan-fund-made-1-billion-this-week-1440793953)
