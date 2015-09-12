@@ -1,0 +1,3 @@
+* WP: [The decline of play in preschoolers](https://www.washingtonpost.com/blogs/answer-sheet/wp/2015/09/01/the-decline-of-play-in-preschoolers-and-the-rise-in-sensory-issues/)
+* Seattle Times: [Empty classes, no talks as Seattle schools stalemate continues](http://www.seattletimes.com/seattle-news/education/seattle-teachers-staff-picket-outside-schools/). Also [covered in NYT](http://www.nytimes.com/2015/09/09/us/an-uncertain-return-for-a-charter-system-in-washington-state.html?_r=3).
+* ZDNet: [Apple says no to FBI backdoor](http://www.zdnet.com/article/apple-in-refusing-backdoor-access-to-data-faces-huge-fines/). Not a battle the feds can win.
