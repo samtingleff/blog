@@ -9,6 +9,20 @@
   <link rel="stylesheet" href="/blog/static/themes/pyrmontv2/css/style.css" type="text/css" media="all"/>
   <link rel="alternate" type="application/rss+xml" title="sam.tingleff.com RSS Feed" href="http://sam.tingleff.com/feed.rss"/>
   <link rel="alternate" type="application/atom+xml" title="sam.tingleff.com Atom Feed" href="http://sam.tingleff.com/atom.xml"/>
+  <script src="//cdn.digitru.st/prod/v1/digitrust.js"></script>
+  <script type="text/javascript">
+   DigiTrust.initialize({
+    member: "IzXoEURCkm",
+    site: "ztnV3gXrYQ",
+    adblocker: {
+      blockContent: false
+       }
+    },
+    function (digiTrustResult) {
+      console.log(digiTrustResult);
+    }
+   );
+  </script>
   <title>marginal focus</title>
  </head>
  <body>

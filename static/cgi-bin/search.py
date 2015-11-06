@@ -2,17 +2,25 @@
 import web
 import json
 from yassg.search import SearchClient
+from yassg.likes import LikesClient
+from yassg.sessions import SessionClient
+from tservices import ttypes
         
 urls = (
     '/cgi-bin/search', 'search',
     '/cgi-bin/similar', 'similar',
+    '/cgi-bin/likes', 'likes',
     '/cgi-bin/reopen', 'reopen'
 )
 app = web.application(urls, globals())
+session_client = SessionClient("localhost", 9998)
+session_client.connect()
 search_client = SearchClient("localhost", 9999)
 search_client.connect()
+likes_client = LikesClient("localhost", 9997)
+likes_client.connect()
 
-class search:        
+class search:
     def GET(self):
         args = web.input()
         response = {}
@@ -40,6 +48,26 @@ class similar:
             response["status"] = "error"
             response["error"] = "no query specified"
         web.header('Content-Type', 'application/json')
+        return json.dumps(response)
+
+class likes:
+    def GET(self):
+        args = web.input()
+        response = {}
+        try:
+            page_id = int(args.page)
+            device = ttypes.TDevice(web.ctx.ip, web.ctx.env['HTTP_USER_AGENT'], None)
+            device.id = session_client.create(device)
+            count = likes_client.count(device, page_id)
+            response["status"] = "ok"
+            response["count"] = count
+        except AttributeError, e1:
+            response["status"] = "error"
+            response["error"] = "no page id specific"
+        except ttypes.TSessionException, e2:
+            response["status"] = "error"
+            response["error"] = "invalid session"
+        web.header("Content-Type", "application-json")
         return json.dumps(response)
 
 class reopen:
