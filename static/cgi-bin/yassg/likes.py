@@ -12,6 +12,9 @@ class LikesClient(object):
     def count(self, device, page):
         return self.client.count(device, page)
 
+    def like(self, device, page):
+        return self.client.like(device, page)
+
     def connect(self):
         self.transport = TSocket.TSocket(self.host, self.port)
         self.transport = TTransport.TBufferedTransport(self.transport)

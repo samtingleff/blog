@@ -57,10 +57,45 @@ class likes:
         try:
             page_id = int(args.page)
             device = ttypes.TDevice(web.ctx.ip, web.ctx.env['HTTP_USER_AGENT'], None)
-            device.id = session_client.create(device)
+            cookie_val = web.cookies().get("id")
+            if cookie_val:
+                device.id = get_device_id_from_cookie(cookie_val)
+            if device.id is None:
+                device.id = session_client.create(device)
             count = likes_client.count(device, page_id)
             response["status"] = "ok"
             response["count"] = count
+            cookie_val = format_device_id_cookie(device.id)
+            web.setcookie('id', cookie_val, 31536000)
+        except TypeError, e0:
+            response["status"] = "error"
+            response["error"] = "type error"
+        except AttributeError, e1:
+            response["status"] = "error"
+            response["error"] = "no page id specific"
+        except ttypes.TSessionException, e2:
+            response["status"] = "error"
+            response["error"] = "invalid session"
+        web.header("Content-Type", "application-json")
+        return json.dumps(response)
+
+    def POST(self):
+        args = web.input()
+        response = {}
+        try:
+            page_id = int(args.page)
+            device = ttypes.TDevice(web.ctx.ip, web.ctx.env['HTTP_USER_AGENT'], None)
+            cookie_val = web.cookies().get("id")
+            if cookie_val:
+                device.id = get_device_id_from_cookie(cookie_val)
+            if device.id is None:
+                response["status"] = "session"
+            else:
+                likes_client.like(device, page_id)
+                response["status"] = "ok"
+        except TypeError, e0:
+            response["status"] = "error"
+            response["error"] = "type error"
         except AttributeError, e1:
             response["status"] = "error"
             response["error"] = "no page id specific"
@@ -92,6 +127,16 @@ def convert(hits):
             "href":("/%s" % search_doc.fields["href"]) }
         result.append(o)
     return result
+
+def get_device_id_from_cookie(cookie_val):
+    try:
+        vals = cookie_val.split("/")
+        result = ttypes.TDeviceId(int(vals[0]), int(vals[1], 16), vals[2])
+        return result
+    except Error, e: return None
+
+def format_device_id_cookie(device_id):
+    return "%s/%s/%s" % (device_id.version, format(device_id.id, "x"), device_id.signature)
 
 if __name__ == "__main__":
     app.run()
