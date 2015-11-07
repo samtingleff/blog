@@ -66,7 +66,7 @@ class likes:
             response["status"] = "ok"
             response["count"] = count
             cookie_val = format_device_id_cookie(device.id)
-            web.setcookie('id', cookie_val, 31536000)
+            web.setcookie('id', cookie_val, 31536000, path="/")
         except TypeError, e0:
             response["status"] = "error"
             response["error"] = "type error"
