@@ -1,0 +1,32 @@
+<html>
+ <head>
+ </head>
+ <body>
+
+  <p>
+   Your DigiTrust ID: <b><span id="dt.id">(none)</span></b>.
+  </p>
+  <p>
+   Click <a href="demo.html">here</a> for a redirect.
+  </p>
+
+  <script src="//cdn.digitru.st/prod/v1/digitrust.js"></script>
+  <script type="text/javascript">
+  DigiTrust.initialize({
+    member: "IzXoEURCkm",
+    site: "ztnV3gXrYQ",
+    adblocker: {
+      blockContent: false,
+      detectedCallback: function () { console.log('Ad blocker detected'); },
+       }
+     },
+     function (digiTrustResult) {
+       console.log(digiTrustResult);
+       if (digiTrustResult && digiTrustResult.success) {
+         document.getElementById("dt.id").innerHTML = digiTrustResult.identity.id;
+       } else {
+       }
+     });
+  </script>
+ </body>
+</html>
