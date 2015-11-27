@@ -1,0 +1,3 @@
+* medium: [Facebook M — The Anti-Turing Test](https://medium.com/@arikaleph/facebook-m-the-anti-turing-test-74c5af19987c)
+* nautil.us: [How the Western Diet Has Derailed Our Evolution](http://nautil.us/issue/30/identity/how-the-western-diet-has-derailed-our-evolution)
+* nytimes: [Are Good Doctors Bad for Your Health?](http://www.nytimes.com/2015/11/22/opinion/sunday/are-good-doctors-bad-for-your-health.html?_r=0)
