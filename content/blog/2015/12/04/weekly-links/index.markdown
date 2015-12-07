@@ -1,1 +1,3 @@
-* foo
+* Kobe Bryant [retires](http://www.theplayerstribune.com/dear-basketball/)
+* Brutal baboon battle [at the Toronto zoo](http://www.thestar.com/news/gta/2015/11/29/brutal-baboon-battle-erupts-for-throne-at-toronto-zoo-after-matriarch-dies.html) after matriarch dies
+* WaPo: [Birthers, ‘Trumpists’ and a crisis for the GOP](https://www.washingtonpost.com/opinions/birthers-trumpists-and-a-crisis-for-the-gop/2015/09/04/3b3e2074-5308-11e5-8c19-0b6825aa4a3a_story.html?postshare=6381448719054051&tid=ss_tw)
