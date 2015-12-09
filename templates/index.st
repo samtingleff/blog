@@ -105,6 +105,7 @@
   </div><!-- /div page_wrap -->
 
   $footer()$
+  $includes/sa()$
   $includes/ga()$
 
  </body>
