@@ -15,8 +15,11 @@
   DigiTrust.initialize({
     member: "IzXoEURCkm",
     site: "ztnV3gXrYQ",
+    apps: {
+      manifest: "http://sam.tingleff.com/digitrust/manifest.json"
+    },
     adblocker: {
-      blockContent: false,
+      blockContent: true,
       detectedCallback: function () { console.log('Ad blocker detected'); },
        }
      },
@@ -28,5 +31,17 @@
        }
      });
   </script>
+
+  <script>
+   (function(){
+    var ref = encodeURIComponent(document.referrer);
+    var img = document.createElement("img");
+    img.width = "1";
+    img.height = "1";
+    img.src = "//pixel.tingleff.com/pixel/v1/p/pv?ref=" + ref;
+    document.body.appendChild(img);
+   })();
+  </script>
+
  </body>
 </html>
