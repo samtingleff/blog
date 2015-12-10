@@ -1,0 +1,15 @@
+{
+ "apps":[
+  {
+   "name": "BitFoo",
+   "description": "BitFoo allows for bitcoin-based microtransactions to access our content.",
+   "behavior": "http://sam.tingleff.com/digitrust/test-app.js",
+   "icon": {
+    "w": 16,
+    "h": 16,
+    "url": "https://sam.tingleff.com/digitrust/icon.png"
+   },
+   "options": { }
+  }
+ ]
+}
