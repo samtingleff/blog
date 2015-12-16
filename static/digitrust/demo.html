@@ -20,16 +20,19 @@
     },
     adblocker: {
       blockContent: true,
+      logoSrc: 'http://i.imgur.com/xfgM1wq.png',
+      logoText: 'The Seattle Times',
+      pictureSrc: 'http://i.imgur.com/IP5RRah.png',
       detectedCallback: function () { console.log('Ad blocker detected'); },
-       }
-     },
-     function (digiTrustResult) {
-       console.log(digiTrustResult);
-       if (digiTrustResult && digiTrustResult.success) {
-         document.getElementById("dt.id").innerHTML = digiTrustResult.identity.id;
-       } else {
-       }
-     });
+    }
+   },
+   function (digiTrustResult) {
+     console.log(digiTrustResult);
+     if (digiTrustResult && digiTrustResult.success) {
+       document.getElementById("dt.id").innerHTML = digiTrustResult.identity.id;
+     } else {
+     }
+   });
   </script>
 
   <script>
