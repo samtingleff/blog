@@ -16,7 +16,7 @@ Or just the [starter pack for Arduino](https://www.adafruit.com/products/68)
 
 ### Inspirations
 
-* [](https://learn.adafruit.com/wifi-controlled-led-christmahanukwanzaa-tree/overview)
+* [Wifi controlled Christmahanukwanzaa tree](https://learn.adafruit.com/wifi-controlled-led-christmahanukwanzaa-tree/overview)
 
 ### Guides
 
