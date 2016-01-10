@@ -1,0 +1,4 @@
+* WaPo: [State of Emergency in Flint, MI over lead levels in water](https://www.washingtonpost.com/news/morning-mix/wp/2015/12/15/toxic-water-soaring-lead-levels-in-childrens-blood-create-state-of-emergency-in-flint-mich/)
+* NYT: [Fed raises short term rates](http://www.nytimes.com/2015/12/17/business/economy/fed-interest-rates.html). Check out [Rube Goldberg machine](http://www.nytimes.com/interactive/2015/12/16/upshot/fed-interest-rates-rube-goldberg-machine.html) they built.
+* New material [converts CO2 into clean fuel](http://www.sciencealert.com/new-material-converts-co2-into-clean-fuel-with-unprecedented-efficiency)
+* NYT: [You don't need more free time](http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html?_r=0)
