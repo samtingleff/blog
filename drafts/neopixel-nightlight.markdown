@@ -8,6 +8,7 @@ Install a strip of color changing LEDs in my kids hallway which can act as a nig
 * [Arduino Uno R3](https://www.adafruit.com/products/50)
 * [CC3000 wifi shield](https://www.adafruit.com/products/1491)
 * [5V 2A power supply](https://www.adafruit.com/products/276)
+* [PIR (motion) sensor](https://www.adafruit.com/products/189)
 * [female DC power adapter](https://www.adafruit.com/products/368)
 * [4700uF 10v capacitor](https://www.adafruit.com/products/1589)
 * solering iron
