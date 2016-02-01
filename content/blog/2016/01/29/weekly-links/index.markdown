@@ -1,0 +1,2 @@
+* NYT: [Ninth Planet May Exist Beyond Pluto](http://www.nytimes.com/2016/01/21/science/space/ninth-planet-solar-system-beyond-pluto.html?_r=0)
+* Seattle Times: [Seattle neighborhoods hire private security amid ‘blatant lawlessness’](http://www.seattletimes.com/seattle-news/citizen-anti-crime-movement-afoot-in-seattles-neighborhoods/)
