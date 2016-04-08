@@ -1,0 +1,2 @@
+* The [Panama Papers](http://panamapapers.sueddeutsche.de/articles/56febff0a1bb8d3c3495adf4/) reveal tax avoidance by politicians, Fifa officials, fraudsters, drug smugglers, celebrities and professional athletes
+* USA Today: [DOJ wants another iPhone unlocked](http://www.usatoday.com/story/news/2016/04/08/justice-moving-forward-separate-apple-case/82788824/) pretty please
