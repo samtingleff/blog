@@ -4,55 +4,65 @@ https://keybase.io/samtingleff
 
 I hereby claim:
 
-  * I am an admin of http://sam.tingleff.com
+  * I am an admin of https://sam.tingleff.com
   * I am samtingleff (https://keybase.io/samtingleff) on keybase.
   * I have a public key with fingerprint 871C 4EDE F5C0 03E4 DBD2  49F6 9A9E 2392 37D4 BB70
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
+            "eldest_kid": "010175450b0956a68d60eafd8b22eafaf17dfb6ad9583923a4a9faf53f447ecfc5c00a",
             "fingerprint": "871c4edef5c003e4dbd249f69a9e239237d4bb70",
             "host": "keybase.io",
             "key_id": "9a9e239237d4bb70",
+            "kid": "010175450b0956a68d60eafd8b22eafaf17dfb6ad9583923a4a9faf53f447ecfc5c00a",
             "uid": "538eb14eb397a6fa78b55e90f1964500",
             "username": "samtingleff"
         },
+        "revoke": {
+            "sig_ids": [
+                "f0eaa29421e0c0707190cb4268e8ddc16987cbdb9a45d64de81ae95e5a4681470f"
+            ]
+        },
         "service": {
             "hostname": "sam.tingleff.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1412373106,
+    "ctime": 1460597733,
     "expire_in": 157680000,
-    "prev": "9e8013442f58bdfe51a78c9edd783c48336ce99a0cb90fd29a2c6abc1cbdd52d",
-    "seqno": 2,
+    "prev": "c74fddebecfdfdb5cae976d7dcb87a5a4b4545918adfc2a38d2696939c9425f2",
+    "seqno": 9,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+Version: GnuPG v1
 
-owFtkVtIFFEYx3e18hLZglkUUXSsrBSb+2UNTeylqF66P41z5pzZHXNn1tlRW0Qj
-otIuJkaaPWT5YGAklAhRDyqoodZDpYUFCWkopfigEbWRnZGkl87L4Xzf7/t//z+n
-blW8J857+056vTj8LOwd6v4BPUd3bzhbAaCFosBfAU7jxUs3zAC2w7ZhOsAPJJHW
-OIywzmsUxWIOQcRwsi7IqowZVmZYEXEQihTIAkEr4k4QGahGcLZhkRp5KAYi1f/w
-pYsNnpUwpDkMWVlUBV0VJcjzWKZ0WhY4nloEI9g21RAmdEQNOcRfMdZ1UJkFSKPM
-0LBr293+D8peorI1K0QkwrblWJpVTLpBxwn73WEnGnbpcgyVvzoKNExEBslAGbYj
-hmUCP01IzTFcYZqjiX+WpoQsgM+EDRsrhkvwoiBR5LhrcJkbFksUzXIco/MSRDrm
-aRJLkzFCosRqnMSygoZlWaU0SIIiRlYZTVChRmsQIZ5BwE1WYlrAzxCbasDNZARM
-1Sm1MahMrvFuXObxxnlWLI9zf9CTnORb+tddYsKCMtDdV8efj05RzLH4/JRNW8rn
-8j721NmDl4pwz8zh309bBp7k9PoufGltSUt80LH/ZnrXVPWbytRt29vzleqZRDg/
-R3GT5stMkBfdp1Q98hZuLV1vtzOdJyNjtSnbxq0Pk/PHD41VmCfw++lYQoYSnKv6
-GrJCq9WCQFrwHbVQH9zZOJvLxK6H1yUVNNTvbWyK3SsouwLQwa4ENVO42DBWHO9M
-975I1A/cMspXjgxtDnacu1ySsVaJ/vSM+tdkwLZYc//ojtpTrUV7fIWfJh5/Y8dr
-uu87bd99s83PU5v6hmMzr480/IKd10Y+vx3O90Vf3Z24kZN7tb9x8KH0Bw==
-=s4An
+owGtkl1oVEcUx3e3NbXBLyKhRVM0s60oLumde+fjztpUiw8+iVQj2hZZ53O9JLt3
+vffuxhiCD9JICsVqSqGiedAWY4S2gitYadEmL62tUChELNhSn6KlQvLQQhGdGxRf
+fHRehjlzzv//O2fmk8UvZHLZE2P54/S3K7Xs9RmR2bVkbm4QiFANgOIg6NXzm+5T
+Ok5KvYECReBAB1KMsCMchgknviKO5kb5wnXtzg2kygjCFcO+x1yPI85sFHsGIaql
+kVg6DgcFYIJqWUe1KKgmVtanUCKttEmvPY2UUC5ihjDOtJvqUIWEoI4t3BfGaYWF
+EzzWXUFoY/ZQmsd7Rv5z5q7Py2HP1wIiLTxGOTGc+gJjzRwDGbEmqW891lGVV7TN
+jnklse32aWPAUAFEuhH26nS0cVC23DEofgCMxeEuQy7UjnSoQyFzpEAu8bWvlISE
++VQKJRhHWBGktA+5ZlhjjogPEXUM2GO1rWkjkPPi6aCeAnQ9IeiSYcXi1aIwCWXY
+Z2/3JUktLoKhKwWQDNTS/H4tSo+VSiKoKltqSxo6ioOwCorQGskkSKUhIg5mlHpe
+AegDtSDSpSDNwJT4jl2pkW5YSUmRUUoLO0tllMDS0lOiqJLCp9x2IZB9HgZ9rox0
+uecrlzDCPCbtTLBxQdrb/moIisxi8nLaVVCu8qQeaTDUOpLteDGTzWVaFuTST5xp
+fXnZk589vXJhZurE2ujkzBdrmz98+ddGOpy/tmpyybfr1wyfWX3hn90//tsYf63Z
+tv1c4ezyP6c++u7iH+0Ho811cedBx+H1Y+PLYDY7ueEY3vt3z97Lfet6yMcdg5uy
+uUOmvyWfX/T9Gzdvb9Grxl/pfP8b9ua1Dd0/Ty+9+9Mt7+v7yeyi13s6+XHa2v7e
+0fG2t3NX7y/e+Evw/+SKge3m4fn2bb/fvgrOZd7aM4F3jo7tuL5pZFd96eojo/Ds
+AuA2/7txqnxSfjV9rJ6faJuJmjNn+Oezh7MHdx+6t7XSeWPbpYkjFW9qJPms/8O5
+080Dn24ZfjXnz4rlbS3rhu8Ev3oLu4/Crrj5bvRO1D360iM=
+=e34/
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
