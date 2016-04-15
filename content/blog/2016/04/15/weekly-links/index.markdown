@@ -1,0 +1,3 @@
+* Futurism.com: a group of Chinese researchers [Using CRISPR introduced HIV-resistance into human embryos](http://futurism.com/scientists-successfully-genetically-modify-human-embryos-hiv/)
+* NYT: [Inky the Octopus Escapes From a New Zealand Aquarium](http://www.nytimes.com/2016/04/14/world/asia/inky-octopus-new-zealand-aquarium.html?smid=fb-nytimes&smtyp=cur&_r=1)
+* "10-19" sounds like a free throw shooting line, [not from 3 point range](http://www.nba.com/games/20160413/MEMGSW/gameinfo.html)
