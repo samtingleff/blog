@@ -1,0 +1,2 @@
+* NYPD launches a comical [social media campaign against math](http://motherboard.vice.com/read/nypd-manhattan-prosecutor-unlockjustice-anti-encryption-social-media-campaign-backfires) - [#UnlockJustice](https://twitter.com/search?q=%23UnlockJustice&src=typd)
+* PopSci: [Edward Snowden: The Internet is Broken](http://www.popsci.com/edward-snowden-internet-is-broken)
