@@ -1,0 +1,4 @@
+* Youtube: [Mike Rowe on blue collar jobs](https://youtu.be/3rN160vChgg)
+* Misperceiving Bullshit as Profound [Is Associated with Favorable Views of Cruz, Rubio, Trump and Conservatism](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153419)
+* Now you, too can become an animal cyborg capable of [sensing north](http://www.cyborgnest.net/)
+* Oklahoma Police have become [literal highway robbers](https://www.armstrongeconomics.com/international-news/north_america/americas-current-economy/oklahoma-police-can-seize-your-entire-bank-account-on-a-traffic-stop-without-any-charges-at-all/)
