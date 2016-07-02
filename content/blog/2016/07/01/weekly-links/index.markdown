@@ -1,0 +1,2 @@
+* NPR: [Silicon Valley's Bloody Plant Burger Smells, Tastes And Sizzles Like Meat](http://www.npr.org/sections/thesalt/2016/06/21/482322571/silicon-valley-s-bloody-plant-burger-smells-tastes-and-sizzles-like-meat)
+* [In Newly Created Life-Form, a Major Mystery](https://www.quantamagazine.org/20160324-in-newly-created-life-form-a-major-mystery/)
