@@ -4,7 +4,7 @@ On our first day, Breean's wallet was stolen.
 
 ### Day 2: Reykjavik to Vik
 
-%%% ig width=640 height=880
+%%% ig width=640 height=565
 BHf0bd2DoQT
 %%%
 
