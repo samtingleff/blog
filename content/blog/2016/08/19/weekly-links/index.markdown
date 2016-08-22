@@ -1,0 +1,3 @@
+* Wapo: [Comcast wants to sell your web history](https://www.washingtonpost.com/news/the-switch/wp/2016/08/03/comcast-wants-to-sell-your-web-history/)
+* Humpback whales around the globe are [rescuing other species from Orcas](http://www.mnn.com/earth-matters/animals/stories/humpback-whales-around-globe-are-mysteriously-rescuing-animals-orcas)
+* BBC: [Why it pays to be grumpy and bad tempered](http://www.bbc.com/future/story/20160809-why-it-pays-to-be-grumpy-and-bad-tempered)
