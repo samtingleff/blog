@@ -8,6 +8,7 @@ Let's face it, the Republican party agenda today is built on a foundation of big
 * climate change is not real and the EPA is bad for you
 * taking away your health care is in your own best interest
 * crony capitalism will help _you_ get rich
+* terrorists represent a greater threat than [mentally ill US citizens](http://www.cnn.com/2017/02/02/politics/house-vote-guns-mental-illnesses/)
 
 Someone like Pence, or Ryan, knows how to avoid getting caught in the stupid little lies, which tend to blow up in the media and get people angry. If you avoid the little lies you are more likely to get away with the big lies, which are complicated and tend not make for good rallies. Whoever went to a march to protest [cooking the books on a budget forecast](http://www.vox.com/2017/2/17/14651208/trump-budget-forecast).
 
