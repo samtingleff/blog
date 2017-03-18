@@ -1,0 +1,4 @@
+* HBR: [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
+* VF: [Business Leaders Ask Trump to Make Polluting Grat Again](http://www.vanityfair.com/news/2017/02/business-leaders-politely-ask-the-president-to-let-them-start-polluting-again)
+* Major new study shows [political polarization is mainly a right wing thing](http://news.wgbh.org/2017/03/15/politics-government/major-new-study-shows-political-polarization-mainly-right-wing)
+* Reuters: [Russian elite invested nearly $100 million in Trump buildings](http://mobile.reuters.com/article/idUSKBN16O2F6)
