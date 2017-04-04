@@ -1,0 +1,7 @@
+* BBC: [Trump Russia dossier key claim 'verified'](http://www.bbc.com/news/world-us-canada-39435786). Sadly not the pee thing.
+* [Hiring Ivanka is nepotism](http://thehill.com/blogs/blog-briefing-room/news/326440-obama-wh-ethics-lawyer-appointment-of-ivanka-is-nepotism). No shit?
+* Trump ["feels great"](https://thinkprogress.org/spicer-trump-feels-great-mar-a-lago-trips-7f8ba2297807) about his trips to Mar-a-Lago.
+* The Hill: [House Votes to Restrict the EPA Use of Science](http://thehill.com/policy/energy-environment/326380-house-votes-to-restrict-epas-use-of-science). For all the other fucking nonsense, this administration's attack on science and climate change is going to go down in history as the single worst political stance ever made. On Earth, anyway.
+* NYT: [The GOP's Existential Crisis](https://www.nytimes.com/2017/03/24/opinion/sunday/the-gops-existential-crisis.html)
+* [Darwin was a slacker and you should be too](http://m.nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too)
+* Propublica: [Tom Price Intervened on Rule That Would Hurt Drug Profits, the Same Day He Acquired Drug Stock](https://www.propublica.org/article/tom-price-intervened-rule-hurt-drug-profits-same-day-acquired-drug-stock)
