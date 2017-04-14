@@ -5,4 +5,5 @@
 * Propublica: [Tom Price, stock manipulator](https://www.propublica.org/article/tom-price-intervened-rule-hurt-drug-profits-same-day-acquired-drug-stock)
 * Wapo: [Mitch McConnell, the man who broke America](https://www.washingtonpost.com/opinions/mitch-mcconnell-the-man-who-broke-america/2017/04/07/8e12f1d8-1bbd-11e7-9887-1a5314b56a08_story.html)
 * NYMag on [asymmetric polarization](http://nymag.com/daily/intelligencer/2017/04/gop-voters-love-same-attack-on-syria-they-hated-under-obama.html). Survey says... GOP is destroying America.
+* The Nation: [20 People Now Own As Much Wealth as Half of All Americans](https://www.thenation.com/article/20-people-now-own-as-much-wealth-as-half-of-all-americans/)
 * Nautilus: [Darwin Was a Slacker and You Should Be Too](http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too)
