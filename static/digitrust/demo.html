@@ -10,21 +10,12 @@
    Click <a href="demo.html">here</a> for a redirect.
   </p>
 
-  <script src="//cdn.digitru.st/prod/v1/digitrust.js"></script>
+  <script src="//cdn.digitru.st/prod/1.1.0/digitrust.js"></script>
   <script type="text/javascript">
   DigiTrust.initialize({
     member: "IzXoEURCkm",
     site: "ztnV3gXrYQ",
-    apps: {
-      manifest: "http://sam.tingleff.com/digitrust/manifest.json"
-    },
-    adblocker: {
-      blockContent: false,
-      logoSrc: 'http://i.imgur.com/xfgM1wq.png',
-      logoText: 'The Seattle Times',
-      pictureSrc: 'http://i.imgur.com/IP5RRah.png',
-      detectedCallback: function () { console.log('Ad blocker detected'); },
-    }
+    sample: 1
    },
    function (digiTrustResult) {
      console.log(digiTrustResult);
