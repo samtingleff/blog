@@ -15,4 +15,6 @@ So, what might a scientist or engineer do as an act of civil disobience towards 
 * On a user registration page, ask the question "is climate change a hoax?" and deny access to any positive respondent.
 * Disable SSL when serving any content (login forms, private communications, or other) to [Amber Rudd](http://www.telegraph.co.uk/news/2017/07/31/dont-want-ban-encryption-inability-see-terrorists-plotting-online/) and any supporters of encryption legislation.
 * Introduce subtle and annoying bugs to [@GOP](https://twitter.com/gop) leadership using your product built on social media APIs.
-* Use sentiment analysis to discover anti-science nonsense and tag it with a very visible bullshit 💩 identifier.
+* Use sentiment analysis to discover anti-science nonsense and tag it with a very visible bullshit 💩 label.
+
+The fact is that we (technology providers) are enabling these assholes yet are under no obligation to do so. And to be clear, I'm not arguing against free speech. But if you're anti-science, the intellectually honest thing to do would be to live with the Amish.
