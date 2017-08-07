@@ -8,7 +8,7 @@ At the same time, their leadership spits out anti-science nonsense of all kinds:
 
 One could reasonably say that _you do not get to deny science in one realm yet benefit from it in another_.
 
-If you do not believe in the reality of climate change, should you really get to benefit from the science which designed and built the iPhone? If you think that vaccines cause autism, should you really have access to the mass communication platforms like twitter, which are built on decades of scientific and technological innovation? If you think encryption (math) is something which can be regulated and restricted, do you really have a right for your email to deliver over SSL?
+If you do not believe in the reality of climate change, should you really get to benefit from the science which designed and built the iPhone? If you think that vaccines cause autism, should you really have access to mass communication platforms like twitter, which are built on decades of scientific and technological innovation? If you think encryption (math) is something which can be regulated and restricted, do you really have a right for your email to deliver over SSL?
 
 So, what might a scientist or engineer do as an act of civil disobience towards a party of science deniers? Here's a couple of ideas.
 
