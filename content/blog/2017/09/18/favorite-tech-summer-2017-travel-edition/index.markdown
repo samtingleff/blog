@@ -1,18 +1,18 @@
 Between August and September I managed to pass through seven countries for either work or family holiday.
 
-%% ig width=320 height=440
+%%% ig width=320 height=440
 pic id tbd
-%%
+%%%
 
-%% ig width=320 height=440
+%%% ig width=320 height=440
 pic id tbd
-%%
+%%%
 
 Here's the gear which made that possible.
 
-%% flickr username=samtingleff width=500 height=350
+%%% flickr username=samtingleff width=500 height=350
 pic id tbd
-%%
+%%%
 
 Clockwise from top left, this is
 
