@@ -1,6 +1,6 @@
   <div id="footer">
    <div class="footer_wrapper">
-    &copy; 2014 Sam Tingleff
+    &copy; 2017 Sam Tingleff
     <div class="clear"></div>
     <!--<div id="ancillary">
      <div class="inside">

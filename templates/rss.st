@@ -6,7 +6,7 @@
   <title>marginal focus</title>
   <description>marginal focus | Sam Tingleff</description>
   <link>http://sam.tingleff.com/</link>
-  <copyright>Copyright 2014 Sam Tingleff</copyright>
+  <copyright>Copyright 2017 Sam Tingleff</copyright>
   <language>en-us</language>
   <lastBuildDate>$buildDate$</lastBuildDate>
   <pubDate>$buildDate$</pubDate>

@@ -13,7 +13,7 @@
  <generator uri="http://github.com/samtingleff/yassg" version="1.0">
   YASSG
  </generator>
- <rights>Copyright 2014, Sam Tingleff</rights>
+ <rights>Copyright 2017, Sam Tingleff</rights>
  $items:{item|
   <entry>
    <title>$item.title$</title>
