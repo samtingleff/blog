@@ -7,7 +7,7 @@
  <id>http://sam.tingleff.com/atom.xml</id>
  <updated>$buildDate$</updated>
  <author>
-  <name>sam</name>
+  <name>Sam Tingleff</name>
   <uri>http://sam.tingleff.com/</uri>
  </author>
  <generator uri="http://github.com/samtingleff/yassg" version="1.0">
