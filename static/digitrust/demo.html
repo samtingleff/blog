@@ -9,14 +9,22 @@
   <p>
    Click <a href="demo.html">here</a> for a redirect.
   </p>
+  <p>
+   Click <a href="#" id="foobar">here</a> for a click handler which should not redirect.
+  </p>
 
-  <script src="https://cdn.digitru.st/prod/1.4.2/digitrust.min.js"></script>
+  <script type="text/javascript">
+    document.getElementById("foobar").addEventListener("click", function(e) {
+      alert("click handler worked");
+    });
+  </script>
+  <script src="https://cdn.digitru.st/prod/1.4.3/digitrust.min.js"></script>
   <script type="text/javascript">
   DigiTrust.initialize({
     member: "IzXoEURCkm",
     site: "ztnV3gXrYQ",
     sample: 1,
-    redirect: false
+    redirect: true
    },
    function (digiTrustResult) {
      console.log(digiTrustResult);
