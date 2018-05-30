@@ -1,3 +1,3 @@
 #!/bin/sh
 rsync -a --delete output/ sam@blair:/var/www/sam.tingleff.com/
-rsync -a --delete index/ sam@blair:/var/www/sam.tingleff.com-searchindex/
+#rsync -a --delete index/ sam@blair:/var/www/sam.tingleff.com-searchindex/
