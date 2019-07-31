@@ -1,0 +1,1 @@
+I'm cited in [this MediaPost story](https://www.mediapost.com/publications/article/338787/iab-tech-lab-releases-new-specs-for-fighting-ad-fr.html) announcing the release of sellers.json and SupplyChain.
