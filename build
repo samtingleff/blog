@@ -1,4 +1,4 @@
 #!/bin/sh
 rm -rf index/*
-java -jar /R5D4/Workspaces/Personal/yassg/yassg-static/target/yassg-static-1.0.0-jar-with-dependencies.jar -index index/ -alchemyUsername $ALCHEMY_USERNAME -alchemyPassword $ALCHEMY_PASSWORD -alchemyCache alchemy-cache/ -content content/ -templates templates/ -output output/
+java --add-opens java.base/jdk.internal.misc=ALL-UNNAMED -Dio.netty.tryReflectionSetAccessible=false -jar /R5D4/Workspaces/Personal/yassg/yassg-static/target/yassg-static-1.0.0-jar-with-dependencies.jar -index index/ -semanticUrl $NER_URL -semanticSecret $NER_SECRET -semanticCacheDir semantic-cache/ -content content/ -templates templates/ -output output/
 rsync -av static/ output/
