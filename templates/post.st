@@ -89,7 +89,7 @@
        <div>
         Possibly related:
         <ul>$related:{post |
-         <li><a href="/$post.fields.href$">$post.fields.title$</a> ($post.explain.terms:{term | $term.field$: $term.value$ }$)</li>
+         <li><a href="/$post.fields.href$">$post.fields.title$</a></li>
          }$</ul>
        </div>
 
